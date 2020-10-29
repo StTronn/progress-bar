@@ -1,4 +1,4 @@
-#Simple React Progress Bar Component
+# Simple React Progress Bar Component
 
 ## Developing
     yarn install
