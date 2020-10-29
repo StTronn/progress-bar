@@ -1,0 +1,57 @@
+.flex{
+    display:flex;
+}
+
+.h-2{
+    height:0.5rem;
+}
+
+.rounded{
+    border-radius: 0.25rem;
+}
+
+.rounded-r-none{
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.rounded-l-none{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.bg-green-600{
+    background: #38A169;
+}
+
+.bg-green-400{
+    background: #68D391;
+}
+
+.bg-green-100{
+    background: #F0FFF4;
+}
+
+.text-xs{
+    font-size:0.75rem;
+}
+
+.font-semibold{
+    font-weight:600;
+}
+
+.py-1{
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+}
+
+.ml-auto{
+    margin-left:auto;
+}
+
+
+
+
+
+
+
