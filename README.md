@@ -1,5 +1,4 @@
-# React Components Library Template
-A template for creating a reusable React component library.
+#Simple React Progress Bar Component
 
 ## Developing
     yarn install
