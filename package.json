@@ -1,13 +1,14 @@
 {
-  "name": "react-component-library",
+  "name": "simple-react-progress",
   "version": "1.0.0",
-  "description": "Reusable React components library template",
+  "url": "https://github.com/StTronn/react-progress-bar",
+  "description": "React Progress Bar component ",
   "main": "dist/index.js",
   "scripts": {
     "start": "start-storybook",
     "build": "webpack --mode production"
   },
-  "author": "Andrew Potts",
+  "author": "Rishav Thakur",
   "license": "ISC",
   "dependencies": {
     "react": "^16.13.1",
